@@ -1,0 +1,21 @@
+{
+	"remotePath": "./portal.likeminds4peterobi.com/",
+	"host": "likeminds4peterobi.com",
+	"username": "chimvaao",
+	"password": "Succe55@2022",
+	"port": 21098,
+	"secure": false,
+	"protocol": "sftp",
+	"uploadOnSave": false,
+	"passive": false,
+	"debug": false,
+	"privateKeyPath": null,
+	"passphrase": null,
+	"agent": null,
+	"allow": [],
+	"ignore": ["\\.vscode", "\\.git", "\\.DS_Store"],
+	"generatedFiles": {
+		"extensionsToInclude": [""],
+		"path": ""
+	}
+}

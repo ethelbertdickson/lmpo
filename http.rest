@@ -1,0 +1,26 @@
+POST http://localhost/php/lmpo/api/create_post.php
+Contentb-Type: application/json
+
+{
+    "first_name" : "Queen",
+    "last_name" : "Anya",
+    "phone" : "08067834234",
+    "email" : "queen@gh.com",
+    "state_id" : "3",
+    "lga_id" : "124",
+    "ward_id" : "2343",
+    "pu_id" : "34524",
+    "gender" : "1",
+    "pvc_status" : "1"
+}
+
+###
+POST http://localhost/php/lmpo/api/create_post.php
+Contentb-Type: application/json
+
+{
+    "title" : "Lving ww",
+    "body" : "In the akai efa ..",
+    "author" : "Graces",
+    "category_id" : 29
+}
